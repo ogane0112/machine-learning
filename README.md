@@ -1,5 +1,5 @@
 # machine-learning
-自分の研究内容である植物病理判定を行うAIのコードと進捗情報をまとめてみました！
+植物病理判定を行うAIのコードと進捗情報をまとめてみました！
 # 2023 10/10 進捗メモ
 
 [進捗まとめスライド](https://docs.google.com/presentation/d/e/2PACX-1vTF_D_g4BAvtKPykWzC9Q26oLCbncpqFWishsURVPtsjWE6umGY9Ox9CwapwWpmCpvZ9lS2o3pFcIcI/pub?start=false&loop=false&delayms=3000)  
